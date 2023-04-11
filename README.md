@@ -27,8 +27,11 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=madhusmithakg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=madhusmithakg&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Madhusmithakg&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Madhusmithakg&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusmithakg&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 - 👨‍💻 All of my projects are available at [https://github.com/Madhusmithakg?tab=repositories](https://github.com/Madhusmithakg?tab=repositories)
 
 
